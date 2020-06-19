@@ -8,4 +8,4 @@
   Fully responsive Image Gallery with thumbnail navigation.
   Horizontal & Vertical Image Gallery navigation.
   Gallery mode to create an image slideshow with thumbnails
-  Supports swipe and mouseDrag 
+  Supports swipe and mouseDrag   

@@ -3,6 +3,8 @@ Welcome to the PowerBI-Image Gallery wiki!
 
 # Description
   This is responsive Imager Gallery Power BI Custom Visuals with carousel thumbnails navigation. 
+![alt text](https://github.com/prabhubeec/PowerBI-ImageGallery/blob/master/Report-Navigation.gif?raw=true)
+
 
 # Main Features
 

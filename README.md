@@ -1,5 +1,5 @@
-Welcome to the PowerBI-Image Gallery wiki!
-# PowerBI-ImageGallery
+Welcome to the PowerBI Image Gallery wiki!
+# PowerBI Image Gallery
 
 # Description
   This is responsive Imager Gallery Power BI Custom Visuals with carousel thumbnails navigation. 

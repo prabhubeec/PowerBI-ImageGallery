@@ -16,3 +16,7 @@ Welcome to the PowerBI Image Gallery wiki!
 *   It also supports image64 with length less than 1024 size
 *   Images with the Image title available as optional
 *   Image sliding animation
+
+# Usage 
+
+*   Just download the *imageGallery-Import.pbiviz* file and import the files to your Power BI Report
